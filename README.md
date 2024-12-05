@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Hirst Painting - Random Color Dot Generator
+# Hirst Painting - Random Color Dot Generator
 
 - This project is inspired by the iconic spot paintings of Damien Hirst, blending art with Python programming. It recreates the effect of Hirst's polka-dot art by using the turtle graphics library to generate a structured grid of colorful dots, each randomly selected from a vibrant palette.
 
